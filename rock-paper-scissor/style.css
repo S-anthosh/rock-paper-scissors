@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.move-icon{
+ height: 50px;
+ background-color: black;
+ border: 3px solid white;
+ border-radius: 0%;
+ 
+}
+.move-icon:hover{
+    background-color: red;
+    cursor: pointer;
+    
+}
